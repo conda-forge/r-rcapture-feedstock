@@ -1,11 +1,11 @@
-About r-rcapture
-================
+About r-rcapture-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcapture-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Rcapture
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcapture-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimation of abundance and other demographic parameters for closed populations, open populations and the robust design in capture-recapture experiments using loglinear models.
 
